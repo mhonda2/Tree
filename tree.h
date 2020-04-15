@@ -25,6 +25,7 @@ struct tree {
 tree* get_input(int argc, const char* argv[]);
 void console_input(tree* t, int argc, const char* argv[]);
 void file_input(tree* t, const char* filename);
+
 //-------------------------------------------------------------------------
 tnode* tnode_create(const char* word);
 void tnode_delete(tnode* t);
