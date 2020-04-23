@@ -1,3 +1,5 @@
+//Writes words that have the first COMP_LIMIT letters in common on the same line
+//COMP_LIMIT can be changed
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
