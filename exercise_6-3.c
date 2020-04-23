@@ -1,3 +1,5 @@
+//Prints all the line numbers the word appears on
+//Removes noise words like 'the', 'and', 'is', etc.
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
