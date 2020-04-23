@@ -1,3 +1,4 @@
+//Prints the word in decreasing order by frequency
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
